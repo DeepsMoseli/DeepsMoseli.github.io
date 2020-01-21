@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Moseli Motsoeli",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://DeepsMoseli.github.io/images/imageMe.jpg",
+    "email": "moselim@hawaii.edu",
+    "phone": "808-358-1839",
+    "website": "https://DeepsMoseli.github.io",
+    "summary": "I am studying for a graduate student in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
+      "address": "1680 East-West Rd, Post 314-1",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,41 +17,31 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "DeepsMoseli",
+        "url": "http://DeepsMoseli.github.io"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "moselim@hawaii.edu",
+        "url": "https://www.linkedin.com/in/moseli-motsoehli-64b51985/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Natural language processing",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Deep learning applications",
       "keywords": [
       ]
     }
@@ -61,12 +51,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "Python",
         "C++",
-        "Java",
+        "Keras",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Ruby"
       ]
     },
     {
@@ -84,11 +73,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2021)",
+      "studyType": "M.S.",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.9",
       "courses": [
       ]
     }
