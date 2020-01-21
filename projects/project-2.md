@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/wellsfargo.jpg
+title: Wells Fargo Campus Analytics Challenge Natural Language Processing
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-12-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Python
+  - NLP
+  - R
+summary: In this challenge, the goal is to use a hierarchical topic model for clustering the provided data.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+# Wells-Fargo-Campus-Analytics-Challenge-Natural-Language-Processing
+In this challenge, the goal is to use a hierarchical topic model for clustering the provided data. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+![Data_Pipeline](https://github.com/DeepsMoseli/Wells-Fargo-Campus-Analytics-Challenge-Natural-Language-Processing/blob/master/Implementation_pipeline.jpg)
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+* Link to Doc2Vec [model](https://drive.google.com/file/d/1MX5nqi1IyCz9aNbYoU3Nc4SpCSrv8nXs/view?usp=sharing)
+* Link to [Training data for assigning topics to text](https://drive.google.com/file/d/1RHTpLDcX4aQrSspbKdP869xfLh7K6QHW/view?usp=sharing)
+* Link to [Trained multi-label random forest classifier](https://drive.google.com/file/d/1F-gmRDo8UDPUZftr5ruqqN3SAkqejuly/view?usp=sharing)
