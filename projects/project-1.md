@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/bilstm.jpg
+title: Bidirectional LSTM for summarization
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - NLP
+  - Python
+  - keras
+summary: A bidirectional encoder-decoder LSTM neural network is trained for text summarization on the cnn/dailymail dataset.
 ---
 
 <div class="ui small rounded images">
@@ -19,26 +19,52 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
-
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+A bidirectional encoder-decoder LSTM neural network is trained for text summarization on the cnn/dailymail dataset.
 
 
+-The unprocessed dataset can be downloaded [here](https://cs.nyu.edu/~kcho/DMQA/)
+
+-The version (only cnn articles and summaries) used in this project can be found [here](https://drive.google.com/open?id=1VFKeAZZutQoFi-ARBJ8R0xXJUIdb23Ig)
+
+## 1) Word embeddings
+Word2vec algorithm [skipgram](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) is used for the encoder input sequence. This is achieved by training a shallow neural network to ro predict context words given a current word. after training the hidden layer is used as the embedding layer. embedding size was kept at 128. skipgram was pre-trained on both the articles and golden summary words.
+![Skip-gram model](https://github.com/DeepsMoseli/Bidirectiona-LSTM-for-text-summarization-/blob/master/skip-gram.jpg)
+
+For the decoder input and output, one hot encoding of the summary words was used. vocabulary size was initialy 50k but reduced to 30k due to memory constraints. one hot encoding was also to allow addition of attention layer later. 
+
+## 2) Encoder - decoder LSTM
+We use a bidirectional encoder lstm  with state size = 128, dropout=0.2 and a tanh activation.
+The Decoder is a unidirectional lstm with size = 128, droput = 0.2 and a softmax ativation.
+![BiEnDeLSTM Network](https://github.com/DeepsMoseli/Bidirectiona-LSTM-for-text-summarization-/blob/master/BiEnDeLstm_preview.jpeg)
+
+## 3) Attention Layer
+An attention layer between the encoder and decoder over the source sequence's hidden states. as the skipgram embedding and the one-hot vector sizes arent the same, pca over embedding to allow multiplication with one-hot vectors to get attention weights and vectors. final prediction of output word in decoder sequence is done by the attention layer. It helps allow the decoder individual encoder state information. *(forgive the figure below if unclear or messy)* 
+![BiEnDeLSTM + Attention mechanism](https://github.com/DeepsMoseli/Bidirectiona-LSTM-for-text-summarization-/blob/master/BiEnDeLstmAttention.jpg)
+
+## 4) Training
+**Download the data and run the following scripts in this order:**
+1. ```python cnn_daily_load.py```
+2. ```python word2vec.py```
+3. ```python lstm_Attention.py```
+  
+**dependencies**
+- tensorflow, keras,sklearn
+- numpy, pandas, pyrouge, matplotlib
+- regex(re), NLTK, gensim
+
+**LSTM encoder decoder architectural and trainig parameters:** 
+- batch_size = 50
+- epochs = 20
+- hidden_units = 128
+- learning_rate = 0.005
+- clip_norm = 2.0
+- test_size = 0.2
+- optimizer = RMsprop
+- dropout = 0.2 (both encoder and decoder during training)
+ 
+## 5) Results
+The generated summaries are readable and xmake sense, however they contain repetitions and sometimes skip over important facts or get the plot wrong altogether.
+# References
+1. Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473)
+2. Zixiang Ding, Rui Xia, Jianfei Yu, Xiang Li and Jian Yang. [Densely Connected Bidirectional LSTM with Applications to Sentence Classification](https://arxiv.org/abs/1802.00889)
 
