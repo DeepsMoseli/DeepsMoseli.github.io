@@ -6,7 +6,7 @@
     "email": "moselim@hawaii.edu",
     "phone": "808-358-1839",
     "website": "https://DeepsMoseli.github.io",
-    "summary": "I am studying for a graduate student in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am a graduate student in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "1680 East-West Rd, Post 314-1",
       "postalCode": "96822",
@@ -55,6 +55,7 @@
         "C++",
         "Keras",
         "Javascript",
+        "React",
         "Ruby"
       ]
     },
