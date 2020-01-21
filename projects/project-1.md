@@ -12,13 +12,6 @@ labels:
   - keras
 summary: A bidirectional encoder-decoder LSTM neural network is trained for text summarization on the cnn/dailymail dataset.
 ---
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
 A bidirectional encoder-decoder LSTM neural network is trained for text summarization on the cnn/dailymail dataset.
 
 
