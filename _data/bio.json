@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Moseli Motsoeli",
+    "name": "Moseli Motsoehli",
     "label": "Student",
     "picture": "https://DeepsMoseli.github.io/images/imageMe.jpg",
     "email": "moselim@hawaii.edu",
@@ -63,11 +63,9 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
@@ -85,15 +83,16 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa ",
+      "position": "Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-08-26",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "I assist students during my office hours, grade assignments and projects",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+      "ICS483: Computer Vision",
+      "ICS110P: Python programming",
+      "ICS435: Machine Learning Fundamentals"
       ]
     },
     {
