@@ -20,6 +20,8 @@ __This is a sesond attempt at the Quora questions kaggle challange i worked on a
 In this iteration I first attempt to use word2vec embeddings, then bert embedings, and finally training embeddings with the model.<br>
 The final model implemented is Siamese LSTM to classify pairs of sentences as either the same question or different.<br>
 
+[Link to code](https://github.com/DeepsMoseli/Siamese-LSTM-on-sentence-similarity)<br>
+
 ## Preprocessing
 * Removed special characters
 * Transform contractions into full form
@@ -44,3 +46,5 @@ The final model implemented is Siamese LSTM to classify pairs of sentences as ei
 
 * for inference check __GetScore.py__
 * Included Trained LSTM in rep, link to Word2vec embedding
+
+
