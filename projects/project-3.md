@@ -7,7 +7,7 @@ permalink: projects/Siamese
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-12
 labels:
-  - Unity#
+  - Unity
   - Python
   - Keras
   - flask
