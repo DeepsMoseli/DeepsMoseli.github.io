@@ -2,60 +2,45 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Siamese LSTM for sentence similarity
+permalink: projects/Siamese
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-11-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Unity#
+  - Python
+  - Keras
+  - flask
+summary: The final model implemented is Siamese LSTM to classify pairs of sentences as either the same question or different. the model is then used in a Unity VR app to help students improve on their presentation skills. This was for the ICS685 project.
 ---
+# quora-question-pairs
+detection of question repeated questions
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+__This is a sesond attempt at the Quora questions kaggle challange i worked on a few years back using classical features.__<br>
+In this iteration I first attempt to use word2vec embeddings, then bert embedings, and finally training embeddings with the model.<br>
+The final model implemented is Siamese LSTM to classify pairs of sentences as either the same question or different.<br>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+## Preprocessing
+* Removed special characters
+* Transform contractions into full form
+* Limit text to 16 words
+* padding for text length less than 16
 
-To give you a flavor of the game, here is an excerpt from one run:
+## Embeddings
+* Tried Word2Vec
+* Trained embedding together with model (with zero masking) 
 
-<hr>
+## Model architecture
+* Input1 -> LSTM1(128)
+* Input2 -> LSTM2(128)
+* subtract[LSTM1, LSTM2]
+* Dense(128, ReLu) -> Dense(64, ReLu) -> Dense(1, Sigmoid)
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+## Results
+* __40 epochs__
+* loss: 0.5062 - acc: 0.7699
+* val_loss: 0.389 - val_acc: 0.823
+* improvements will be made, tune parameters
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+* for inference check __GetScore.py__
+* Included Trained LSTM in rep, link to Word2vec embedding
