@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/siamese.jpg
 title: Siamese LSTM for sentence similarity
 permalink: projects/Siamese
 # All dates must be YYYY-MM-DD format!
