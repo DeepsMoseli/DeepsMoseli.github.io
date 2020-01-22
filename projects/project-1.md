@@ -14,7 +14,7 @@ summary: A bidirectional encoder-decoder LSTM neural network is trained for text
 ---
 A bidirectional encoder-decoder LSTM neural network is trained for text summarization on the cnn/dailymail dataset.
 
-
+- The __code__ can be found in this [repo](https://github.com/DeepsMoseli/Bidirectiona-LSTM-for-text-summarization-)
 -The unprocessed dataset can be downloaded [here](https://cs.nyu.edu/~kcho/DMQA/)
 
 -The version (only cnn articles and summaries) used in this project can be found [here](https://drive.google.com/open?id=1VFKeAZZutQoFi-ARBJ8R0xXJUIdb23Ig)
