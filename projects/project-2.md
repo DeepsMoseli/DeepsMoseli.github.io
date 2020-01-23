@@ -65,7 +65,7 @@ The combination of these two ideas lead me to proposing: using machine learning 
 
 The flow diagram below is a summary of the flow of data in the proposed solution. The blue arrows represent traininf process and the dotted grey represent inference steps.<br>
 
-![Data_Pipeline](Implementation_pipeline.jpg "Logo Title Text 1")
+<img class="ui image" src="../images/wellsfargo.jpg">
 
 
 ##### Doc2Vec
