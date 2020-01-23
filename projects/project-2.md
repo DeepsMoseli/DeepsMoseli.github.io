@@ -10,7 +10,7 @@ labels:
   - Python
   - NLP
   - R
-summary: In this project, A framework for approximating known hierachical clustering algorithms using machine learning for topic modelling is presented. First , LDA is implemented as a baseline model to get a sense of the problem, then the novel model is explored.
+summary: In this project, A framework for approximating known hierachical clustering algorithms using machine learning for topic modelling is presented. 
 ---
 [<i class="large github icon"></i>Repository](https://github.com/DeepsMoseli/Wells-Fargo-Campus-Analytics-Challenge-Natural-Language-Processing) with code.
 
