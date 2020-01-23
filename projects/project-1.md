@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/bilstm.jpg
 title: Bidirectional LSTM for summarization
-permalink: projects/micromouse
+permalink: projects/summarization
 # All dates must be YYYY-MM-DD format!
 date: 2017-07-01
 labels:
