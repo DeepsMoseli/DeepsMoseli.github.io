@@ -21,7 +21,7 @@ A bidirectional encoder-decoder LSTM neural network is trained for text summariz
 
 ## 1) Word embeddings
 Word2vec algorithm [skipgram](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) is used for the encoder input sequence. This is achieved by training a shallow neural network to ro predict context words given a current word. after training the hidden layer is used as the embedding layer. embedding size was kept at 128. skipgram was pre-trained on both the articles and golden summary words.
-![Skip-gram model](images/skip-gram.jpg)
+<img src="images/skip-gram.jpg">
 
 For the decoder input and output, one hot encoding of the summary words was used. vocabulary size was initialy 50k but reduced to 30k due to memory constraints. one hot encoding was also to allow addition of attention layer later. 
 
