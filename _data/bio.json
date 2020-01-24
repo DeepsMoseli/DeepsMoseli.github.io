@@ -6,7 +6,7 @@
     "email": "moselim@hawaii.edu",
     "phone": "808-358-1839",
     "website": "https://DeepsMoseli.github.io",
-    "summary": "I am a graduate student in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am a CS graduate student in the department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "1680 East-West Rd, Post 314-1",
       "postalCode": "96822",
@@ -29,15 +29,15 @@
   },
   "interests": [
     {
-      "name": "software engineering",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Machine learning",
+      "name": "Deep learning",
       "keywords": [
         "NLP",
         "Computer vision"
+      ]
+    },
+    {
+      "name": "Software engineering",
+      "keywords": [
       ]
     },
     {
