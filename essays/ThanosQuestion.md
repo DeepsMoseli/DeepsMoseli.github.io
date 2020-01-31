@@ -19,7 +19,9 @@ A question, besides the clear "?" sign, is characterized by certain relative wor
 In software engineering, an efficient developer will most certainly find himself stuck at some point, and will need to seek help with others instead of wasting time trying to ego-solve an engineering problem. Open source developer communities have become the go to place for such question due to a number of reasons ranging from the large community of skilled programmers to the fact that help is entirely free of charge(monetory). With that said, you need to realize whenever your ask a question that you are asking a highly skilled and occupied individual, to take time to address your specific issue, and so to be worthy of an answer, you better make your question worth his attention. Good questions normally attract the . Whats a worthy question you may ask?<br>
 
 one of this calibre:<br>
-<img class="ui medium left square floated image" src="../images/goodQ.jpg">
+<img class="ui medium left square floated image" src="../images/goodQ1.jpg">
+<img class="ui medium left square floated image" src="../images/goodQ2.jpg">
+<img class="ui medium left square floated image" src="../images/goodQ3.jpg">
 
 This questions demonstrates a hierachical search about the problem, includding their own effort in solving the problem. The poster goes on to demonstrate they are aware there might not be any readily available information to answer their question, and they are willing to explore any positive suggestions. this kind of question is good for the open source community as it provides the next user with things that did not work , and so reduces the search space for the optimal solution to a problem. It also helps expert who would have perhaps not encountered this kind of problem before (and maybe never), be able to guide their juniors in the workplace or research when they encounter the problem.<br>
 
