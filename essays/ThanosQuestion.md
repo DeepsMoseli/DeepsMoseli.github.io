@@ -21,8 +21,7 @@ one of this calibre:<br>
 <img class="ui medium left square floated image" src="../images/goodQ2.jpg">
 <img class="ui medium left square floated image" src="../images/goodQ3.jpg">
 
-<br>
-This questions demonstrates a hierachical search about the problem, includding their own effort in solving the problem. The poster goes on to demonstrate they are aware there might not be any readily available information to answer their question, and they are willing to explore any positive suggestions. this kind of question is good for the open source community as it provides the next user with things that did not work , and so reduces the search space for the optimal solution to a problem. It also helps expert who would have perhaps not encountered this kind of problem before (and maybe never), be able to guide their juniors in the workplace or research when they encounter the problem.<br>
+<br>This questions demonstrates a hierachical search about the problem, includding their own effort in solving the problem. The poster goes on to demonstrate they are aware there might not be any readily available information to answer their question, and they are willing to explore any positive suggestions. this kind of question is good for the open source community as it provides the next user with things that did not work , and so reduces the search space for the optimal solution to a problem. It also helps expert who would have perhaps not encountered this kind of problem before (and maybe never), be able to guide their juniors in the workplace or research when they encounter the problem.<br>
 
 This question was worthy, and so it received multiple solutions, some with better time and space complexity than others, generally a good question and thread.<br>
 
@@ -34,7 +33,6 @@ Bad questions will almost always lead to bad answers(if you are lucky) or none a
 
 <img class="ui medium left square floated image" src="../images/badQ_A.jpg">
 
-<br>
-This question received only one response that is also perplexed by poster's approach and eventually points the poster to some of the resources he/she did not expore before asking what he should have.<br>
+<br>This question received only one response that is also perplexed by poster's approach and eventually points the poster to some of the resources he/she did not expore before asking what he should have.<br>
 <br>
 In conclusion, do you have any good questions for me?
