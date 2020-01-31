@@ -25,7 +25,9 @@ one of this calibre:<br>
 
 This questions demonstrates a hierachical search about the problem, includding their own effort in solving the problem. The poster goes on to demonstrate they are aware there might not be any readily available information to answer their question, and they are willing to explore any positive suggestions. this kind of question is good for the open source community as it provides the next user with things that did not work , and so reduces the search space for the optimal solution to a problem. It also helps expert who would have perhaps not encountered this kind of problem before (and maybe never), be able to guide their juniors in the workplace or research when they encounter the problem.<br>
 
-This question was worthy, and so it received multiple solutions, some with better time and space complexity than others, generally a good question and thread
+This question was worthy, and so it received multiple solutions, some with better time and space complexity than others, generally a good question and thread.<br>
+
+<img class="ui medium left square floated image" src="../images/goodQ_A.jpg">
 
 ## Bad questions
 <img class="ui medium left square floated image" src="../images/badQ.jpg">
