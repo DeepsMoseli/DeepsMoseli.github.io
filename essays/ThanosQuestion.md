@@ -1,16 +1,14 @@
 ---
 layout: essay
 type: essay
-title: What did you not ask? 
+title: What did you not ask?
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-30
+date: 2020-01-23
 labels:
-  - Stack overflow
-  - GitHub
-  -General
+  - Open-source
+  - Questions
   
 ---
-
 ## Questions
 A question, besides the clear "?" sign, is characterized by certain relative words such as _who, where, why, what_, that ignite dialogue, isn't it? In different domains of knowledge, people ask a plethora of questions in different ways, __"whosoever asks the right question, if he be worthy, shall posses the power of knowledge"__.<br>
 
