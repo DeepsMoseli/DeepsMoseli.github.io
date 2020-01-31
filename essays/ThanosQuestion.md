@@ -29,6 +29,8 @@ This question was worthy, and so it received multiple solutions, some with bette
 <img class="ui medium left square floated image" src="../images/badQ.jpg">
 Bad questions will almost always lead to bad answers(if you are lucky) or none at all. Bad questions always sound and feel like good questions to the uninitiated, they are short, to the point and and with a question mark "?". The initiated can always spot these questions and never confuse them for good questions, infact, an uninitiated friend says they pray on these when they are annoyed. The question in the picture above shows that the poster is only concerned about his specific problem running on his laptop at that point in time and did not do any extensive research on the matter, _probably because he also didnt allocate enough time for the task so he has no time_. This question lacks the depth of the knowledge in the software tools while at the same time asking a very specific question, this clearly indicates the person did not first read on documentation and theoretical backing of the algorithms in hand and expects others to just hand him/her the solution.<br>
 
+<img class="ui medium left square floated image" src="../images/badQ_A.jpg">
 This question received only one response that is also perplexed by poster's approach and eventually points the poster to some of the resources he/she did not expore before asking that he should have.<br>
+
 
 In conclusion, do you have any good questions for me?
