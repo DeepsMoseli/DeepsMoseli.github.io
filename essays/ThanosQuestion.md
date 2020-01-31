@@ -31,6 +31,5 @@ Bad questions will almost always lead to bad answers(if you are lucky) or none a
 
 <img class="ui medium left square floated image" src="../images/badQ_A.jpg">
 This question received only one response that is also perplexed by poster's approach and eventually points the poster to some of the resources he/she did not expore before asking that he should have.<br>
-
-
+<br>
 In conclusion, do you have any good questions for me?
