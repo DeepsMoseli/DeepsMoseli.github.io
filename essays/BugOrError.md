@@ -6,8 +6,7 @@ title: What you need to write perfect code: standards!
 date: 2020-02-13
 labels:
   - ESLint
-  - Coding standards
-  
+  - Coding-standards
 ---
 <br>
 Computer programs are prone to syntax, runtime and logical errors, all of which can and should be avoided. While some errors are easy to detect and avoid, especially for an experienced programmer, the task of avoiding bugs in code is non-trivial to new developers. Although errors lead to programs that either don't work or don’t perform their intended task as expected, they are not the only class of bad programming. Without a clear and concise guideline on how to write code that works and is also readable, software development becomes a very difficult task especially for big projects. It is for these reasons that the computer science community has overtime agreed on certain conventions that make the process of developing quality code easier: the coding standards.
