@@ -34,9 +34,7 @@ The importance of communication in team projects became undeniably clear very ea
 Overall, this was a great experience and I'd recomment the class to any computer science major. I will surely be building more web apps in react and meteor. Not only am I a better web developer now than I was before, but also think about and implement all software better as a computer science student. 
 
 
-
-
-
+<img class="ui image" src="../images/M2_Landding_V2_2.png">
 
 
 
