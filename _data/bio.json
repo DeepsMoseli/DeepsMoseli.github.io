@@ -6,7 +6,7 @@
     "email": "moselim@hawaii.edu",
     "phone": "808-358-1839",
     "website": "https://DeepsMoseli.github.io",
-    "summary": "I am a CS graduate student in the department of Information and Computer Sciences at the University of Hawaii Manoa, working on deep learning with Peter Sadowski. Before moving to UH, I worked on comparison of adversarial and non-adversarial music generation neural networks under the supervision of Anna Bosman, and Pieter Devilliers at the university of Pretoria.",
+    "summary": "I am a PhD student in Computer Science at the University of Hawaii Manoa since Fall 2019, working on Deep Learning with Peter Sadowski. Before moving to UH, I worked on Natural language  processing, and adversarial music generation with of Anna Bosman, and Pieter Devilliers at the university of Pretoria.",
     "location": {
       "address": "1680 East-West Rd, Post 314-1",
       "postalCode": "96822",
@@ -38,6 +38,8 @@
     {
       "name": "Software engineering",
       "keywords": [
+        "react.js",
+        "Flask"
       ]
     },
     {
@@ -55,7 +57,7 @@
         "C++",
         "react.js",
         "pytorch",
-        "Tensorflow",
+        "Tensorflow"
       ]
     },
     {
@@ -63,8 +65,8 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Ubuntu",
-        "Git/GitHub",
+        "Linux",
+        "Git/GitHub"
       ]
     }
   ],
@@ -100,8 +102,9 @@
       "summary": "I assist students during my office hours, grade assignments and projects",
       "highlights": [
       "ICS483: Computer Vision",
-      "ICS110P: Python programming",
-      "ICS435: Machine Learning Fundamentals"
+      "ICS435: Machine Learning Fundamentals",
+      "ICS311: Algorithms",
+      "ICS110P: Python programming"
       ]
     },
     {
