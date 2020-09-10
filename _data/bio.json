@@ -73,8 +73,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
-      "studyType": "M.S.",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
       "startDate": "2019-09-01",
       "endDate": "Present",
       "gpa": "3.9",
@@ -93,6 +93,16 @@
     }
   ],
   "work": [
+    {
+      "company": "UH Manoa ",
+      "position": "Summer Research Assistant",
+      "website": "",
+      "startDate": "2020-05-15",
+      "endDate": "2020-08-15",
+      "summary": "Using Computer vision and Deep learning methods to help improve marine life preservation efforts.",
+      "highlights": [
+      ]
+    },
     {
       "company": "UH Manoa ",
       "position": "Teaching Assistant",
