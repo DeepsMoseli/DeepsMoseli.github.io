@@ -11,7 +11,7 @@ labels:
   - Detectron2
   - OpenCV
 
-summary: So as a pet project I decided to build an image based intruder alert system for my dorm room (LOL). I hand labelled about 200 images taken with both my phone and my laptop webcam, of my door both opened and closed. Things it can detect are door, opening, chair and person. Also sends you an email with the intruder's picture as they open the door.
+summary: So as a pet project I decided to build an image based intruder alert system for my dorm room (LOL). Things it can detect are door, opening, chair and person. Also sends you an email with the intruder's picture as they open the door.
 ---
 
 [<i class="large github icon"></i>Project Repository](https://github.com/DeepsMoseli/detectron2-dormalarm)<br>
