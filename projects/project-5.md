@@ -16,7 +16,8 @@ summary: So as a pet project I decided to build an image based intruder alert sy
 
 [<i class="large github icon"></i>Project Repository](https://github.com/DeepsMoseli/detectron2-dormalarm)<br>
 
-[![watch the video](preview.png)](https://youtu.be/Ksqib9bJKCU)
+[![watch the video](../images/preview.png)](https://youtu.be/Ksqib9bJKCU)
+
 
 This work illustrates the use of Detectron2 on a custom dataset. While I worked on this project on data I can not share, 
 I felt it important to share my experience with detectron2 so I quickly created a dataset of my own I could share(uncomfortably) so others struggle less 
