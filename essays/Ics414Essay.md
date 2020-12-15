@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Taking meteor to production:HACC-HUI?
+title: Taking meteor to production:HACC-HUI.
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
@@ -10,14 +10,19 @@ labels:
   
 ---
 <br>
-# Questions:
-A question, besides the clear "?" sign, is characterized by certain relative words such as _who, where, why, what_, that ignite dialogue, isn't it? In different domains of knowledge, people ask a plethora of questions in different ways, __"whosoever asks the right question, if he be worthy, shall possess the power of knowledge"__.<br>
+# HACC-HUI:
+HACC-HUI is the Annual Hawaii Code Challenge (HACC), presented as a team hackathon to principally solve problems in the Hawaiian islands, and is open to any developer ranging from high school to industry  professionals.
+
+Typically, over 200 participants attend the initial meeting, making it hard for participants to know each other and their rtespective skill-sets. Despite other teams,(mostly same location/college students) forming familiar teams, there is still a large number of participants that join without teams and need a more stream-lined way to discover and join teams. This Problem can be solved by crreating a more formalized machenism for joining the competition and discovering teams with complementary skills. Once a team is formed, team members are free to pick who enters their team, team members are also free to exit a team at any point in the competition life-time. Welcome to the HACC<br>
 
 <img class="ui medium left square floated image" src="../images/thor.jpg">
 
 ---
 <br>
-In software engineering, an efficient developer will most certainly find himself stuck at some point, and will need to seek help with others instead of wasting time trying to ego-solve an engineering problem. Open source developer communities have become the go to place for such question due to a number of reasons ranging from the large community of skilled programmers to the fact that help is entirely free of charge(monetory). With that said, you need to realize whenever your ask a question that you are asking a highly skilled and occupied individual, to take time to address your specific issue, and so to be worthy of an answer, you better make your question worth his attention. Good questions normally attract the . Whats a worthy question you may ask?<br>
+The HACC-HUI platform this fall was designed to be mobile first, this means since most users surf the net of their mobile devices, the application should feel closer to a mobile app than it does a traditional desktop website. This changes a lot on how we develop the application using React, meteor,  and semantic UI as opposed to android studio as traditional mobile applications are made. The application also includes a Slack functionality to allow teams the ability to directy affect the Slack functionality view the application when a new member requests access, joins or leaves the teams via the HACC user application interface.
+<br>
+
+While all teams( of 4/5) in the ICS414 class contributed to the same development milestones, the issues were split within the teams. I was Primarily focused on getting the best UI we can make for the application. When a user 
 
 one of this calibre:<br>
 <img class="ui medium left square floated image" src="../images/goodQ1.jpg">
