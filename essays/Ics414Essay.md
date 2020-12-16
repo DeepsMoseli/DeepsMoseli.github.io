@@ -10,7 +10,7 @@ labels:
   
 ---
 
-<img class="ui large center square image" src="../images/hacc_home.png">
+<img class="ui massive square image" src="../images/hacc_home.png">
 
 <br>
 # HACC-HUI:
@@ -18,7 +18,7 @@ HACC-HUI is the Annual Hawaii Code Challenge (HACC), presented as a team hackath
 
 Typically, over 200 participants attend the initial meeting, making it hard for participants to know each other and their rtespective skill-sets. Despite other teams,(mostly same location/college students) forming familiar teams, there is still a large number of participants that join without teams and need a more stream-lined way to discover and join teams. This Problem can be solved by crreating a more formalized machenism for joining the competition and discovering teams with complementary skills. Once a team is formed, team members are free to pick who enters their team, team members are also free to exit a team at any point in the competition life-time. Welcome to the HACC<br>
 
-<img class="ui large left square floated image" src="../images/hacc.png">
+<img class="ui large square floated image" src="../images/hacc.png">
 
 ---
 <br>
