@@ -25,6 +25,11 @@ The HACC-HUI platform this fall was designed to be mobile first, this means sinc
 While all teams( of 4/5) in the ICS414 class contributed to the same development milestones, the issues were split within the teams. I was Primarily focused on getting the best UI we can make for the application. When a user first accesses the site, they need to create a profile and enter their skills and preferences. After this, The user is able to see the different challenges and teams, at which point they are able to request to join a team. The existing team members then have a chance to see his/her expertise and decide to let them in or reject. Initiall I worked on both the UI and backend functionality for listing existing teams and allowing for sorting the list according to a certain attribute. While I had done something like this before in ICS314, the size of the HACC-HUI code base alone made it feel very different, also the data model was much more advanced and had enhanced security features. Ath the end it was a steep learning curve but certainly fulfilling by the time I had the functionality working.
 <br>
 
+My second biggest contribution was the design and implementation of a "Create profile" page. Once a user signs up and logs in, they are directed to this page to complete their profile, entering information such as skillset and education. This time I only worked on the form and its aesthetics, while another member of my team made sure the form and schema behind it tie up to the collection in the database.
+<br>
+
+As in ICS314, We worked in groups of four, my other team members being Bryson Yuen, Kason Shiroma, and Matthew Kim. Our team worked entirely online due to the pandemic, and so all team meetings were conducted on either zoom or Discord. Most team meetings were held right after class, and we would go over the new milestone and issues, discussing how each would be approached and assessing the level of dificulty. Matthew Kim assumed the role of mediator in most meetings and this really helped us stay on track. At the end of our meetings, everyone would know exactly what issues they are working on and how the issues 
+
 one of this calibre:<br>
 <img class="ui medium left square floated image" src="../images/goodQ1.jpg">
 <img class="ui medium left square floated image" src="../images/goodQ2.jpg">
