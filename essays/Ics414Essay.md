@@ -13,7 +13,9 @@ labels:
 <img class="ui massive square image" src="../images/hacc_home.png">
 
 <br>
+
 # HACC-HUI:
+
 HACC-HUI is the Annual Hawaii Code Challenge (HACC), presented as a team hackathon to principally solve problems in the Hawaiian islands, and is open to any developer ranging from high school to industry  professionals.
 
 Typically, over 200 participants attend the initial meeting, making it hard for participants to know each other and their rtespective skill-sets. Despite other teams,(mostly same location/college students) forming familiar teams, there is still a large number of participants that join without teams and need a more stream-lined way to discover and join teams. This Problem can be solved by crreating a more formalized machenism for joining the competition and discovering teams with complementary skills. Once a team is formed, team members are free to pick who enters their team, team members are also free to exit a team at any point in the competition life-time. Welcome to the HACC<br>
@@ -37,3 +39,4 @@ As in ICS314, We worked in groups of four, my other team members being Bryson Yu
 
 # Thoughts About ICS414:
 
+The course, as a follow up to ICS314 is a great way to get students to fully experience software engineering at a production level. In ICS314, I got to learn a lot about more advanced react concepts, meteor methods, and the security and data integrity of a production scale application. The experience of working on such a large code base on its own makes me confident I could join any project team and not feel entirely overwhelmed. All in all, the ICS314 and ICS414 series is one of the best series of courses I have ever taken, and I'd recommend them to any computer science student.
