@@ -35,7 +35,7 @@ summary: Being from Lesotho and studying in America, I found it rather annoying 
 
 ### SMS Receipt
 
-<img class="ui image" src="../images/smaple_sms.jpg">
+<img class="ui image" src="../images/sample_sms.jpg">
 
 
 ### Spread the word
