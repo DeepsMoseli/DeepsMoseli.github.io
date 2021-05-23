@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/mb1.png
+image: images/logo3.svg
 title: Mblesse - Global Airtime topup web application
-permalink: projects/Doortectron
+permalink: projects/Mblesse
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-18
 labels:
@@ -14,14 +14,32 @@ labels:
 summary: Being from Lesotho and studying in America, I found it rather annoying that I couldn't get friends and family back home airtime top-up. So I decided to quickly build a web app to facilitate this and uses Paypal for the payments service.
 ---
 
-[<i class="large chrome icon"></i>Website:](https://mblesse.com)<br>
+[<i class="large chrome icon"></i>Check it out!](https://mblesse.com)<br>
 
-<img class="ui image" src="../images/vgg.png">
+### Pages
+
+<img class="ui image" src="../images/mb1.png">
+
+<img class="ui image" src="../images/mb2.png">
 
 
-### Credit
-* Most of the detectron training setup is from the official documentation and [examples](https://github.com/facebookresearch/detectron2/tree/master/projects) on detectron2's [git repo](https://github.com/facebookresearch/detectron2)
+<img class="ui image" src="../images/mb3.png">
 
-* Video IO from Satya mallick's [learnopencv](https://www.learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/)
+
+<img class="ui image" src="../images/mb4.png">
+
+<img class="ui image" src="../images/mb5.png">
+
+<img class="ui image" src="../images/mb6.png">
+
+
+### SMS Receipt
+
+<img class="ui image" src="../images/smaple_sms.jpg">
+
+
+### Spread the word
+
+<img class="ui image" src="../images/share.png">
 
 -----
