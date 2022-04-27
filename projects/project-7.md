@@ -12,10 +12,7 @@ labels:
   - SemanticUi
   - Meteor
 
-summary: We are creating a hub that allows college students to share ideas, event
-information and resources such as extra food, books with fellow students in their
-college. The problem we are solving is that information about college living is either
-scattered all over the internet, or clustered within cliques and is hard to find per college.
+summary: We are creating a hub that allows college students to share ideas, event information and resources such as extra food, books with fellow students in their college. The problem we are solving is that information about college living is either scattered all over the internet, or clustered within cliques and is hard to find per college.
 ---
 
 [<i class="large chrome icon"></i>Check it out!](https://mblesse.com)<br>
