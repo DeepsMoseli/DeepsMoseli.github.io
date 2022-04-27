@@ -5,7 +5,7 @@ image: images/logo_mblesse.svg
 title: Mblesse - Localized Ideas, Information and Resources on college campuses
 permalink: projects/Mblesse_college
 # All dates must be YYYY-MM-DD format!
-date: 2022-04-26
+date: 2022-04-25
 labels:
   - React.Js
   - MongoDB
@@ -27,13 +27,13 @@ scattered all over the internet, or clustered within cliques and is hard to find
 <img class="ui image" src="../images/hub.png">
 
 
-#### Sign Up and Verify
+### Sign Up and Verify
 
 <img class="ui image" src="../images/signup.png">
 
 <img class="ui image" src="../images/verify_email.png">
 
-#### Events & Meals
+### Events & Meals
 
 <img class="ui image" src="../images/Events.png">
 
@@ -42,7 +42,7 @@ scattered all over the internet, or clustered within cliques and is hard to find
 <img class="ui image" src="../images/Purchase_history.png">
 
 
-#### Feedback and share
+### Feedback and share
 
 <img class="ui image" src="../images/feedback.png">
 <img class="ui image" src="../images/Share_meals.png">
