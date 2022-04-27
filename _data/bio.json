@@ -81,6 +81,8 @@
       "endDate": "Present",
       "gpa": "3.75",
       "courses": [
+        "High Growth Entrepreneurship",
+        "Machine learning Research Seminar"
       ]
     },
     {
@@ -93,8 +95,7 @@
       "courses": [
         "Advanced Artificial Intelligence", "Digital Image Processing", "Evolutionary Computation",
         " Machine Learning", "Computer Networks", "Network science", "Software Engineering I",
-        "Software Engineering II", "Virtual and Augmented Reality", "Computer Architecture",
-        "High Growth Entrepreneurship"
+        "Software Engineering II", "Virtual and Augmented Reality", "Computer Architecture"
       ]
     },
     {
