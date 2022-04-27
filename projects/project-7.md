@@ -2,44 +2,49 @@
 layout: project
 type: project
 image: images/logo3.svg
-title: Mblesse - Global Airtime topup web application
-permalink: projects/Mblesse
+title: Mblesse - Localized Ideas, Information and Resources on college campuses
+permalink: projects/Mblesse_college
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-18
+date: 2022-04-26
 labels:
   - React.Js
+  - MongoDB
   - SemanticUi
   - Meteor
 
-summary: Being from Lesotho and studying in America, I found it rather annoying that I couldn't get friends and family back home airtime top-up. So I decided to quickly build a web app to facilitate this and uses Paypal for the payments service.
+summary: We are creating a hub that allows college students to share ideas, event
+information and resources such as extra food, books with fellow students in their
+college. The problem we are solving is that information about college living is either
+scattered all over the internet, or clustered within cliques and is hard to find per college.
 ---
 
 [<i class="large chrome icon"></i>Check it out!](https://mblesse.com)<br>
 
 ### Pages
 
-<img class="ui image" src="../images/mb1.png">
+<img class="ui image" src="../images/landing.png">
 
-<img class="ui image" src="../images/mb2.png">
-
-
-<img class="ui image" src="../images/mb3.png">
+<img class="ui image" src="../images/hub.png">
 
 
-<img class="ui image" src="../images/mb4.png">
+#### Sign Up and Verify
 
-<img class="ui image" src="../images/mb5.png">
+<img class="ui image" src="../images/signup.png">
 
-<img class="ui image" src="../images/mb6.png">
+<img class="ui image" src="../images/verify_email.png">
+
+#### Events & Meals
+
+<img class="ui image" src="../images/Events.png">
+
+<img class="ui image" src="../images/offer_meal.png">
+
+<img class="ui image" src="../images/Purchase_history.png">
 
 
-### SMS Receipt
+#### Feedback and share
 
-<img class="ui image" src="../images/sample_sms.jpg">
-
-
-### Spread the word
-
-<img class="ui image" src="../images/share.png">
+<img class="ui image" src="../images/feedback.png">
+<img class="ui image" src="../images/Share_meals.png">
 
 -----

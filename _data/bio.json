@@ -39,6 +39,7 @@
       "name": "Software engineering",
       "keywords": [
         "react.js",
+        "Meteor",
         "Flask"
       ]
     },
@@ -54,9 +55,10 @@
       "level": "",
       "keywords": [
         "Python",
+        "JavaScript",
         "C++",
-        "react.js",
-        "pytorch",
+        "React",
+        "Pytorch",
         "Tensorflow"
       ]
     },
@@ -75,10 +77,24 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "Ph.D.",
-      "startDate": "2019-09-01",
+      "startDate": "2021-08-01",
       "endDate": "Present",
+      "gpa": "3.75",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "M.S",
+      "startDate": "2019-08-01",
+      "endDate": "2021-05-13",
       "gpa": "3.9",
       "courses": [
+        "Advanced Artificial Intelligence", "Digital Image Processing", "Evolutionary Computation",
+        " Machine Learning", "Computer Networks", "Network science", "Software Engineering I",
+        "Software Engineering II", "Virtual and Augmented Reality", "Computer Architecture",
+        "High Growth Entrepreneurship"
       ]
     },
     {
@@ -119,11 +135,13 @@
       "website": "",
       "startDate": "2019-08-26",
       "endDate": "Present",
-      "summary": "I assist students during my office hours, grade assignments and projects",
+      "summary": "I assist students during my office hours, set up assignments, recitations, grade assignments and projects",
       "highlights": [
       "ICS483: Computer Vision",
+      "ICS434: Intro to Data Science",
       "ICS435: Machine Learning Fundamentals",
       "ICS311: Algorithms",
+      "ICS141: Discrete Structures",
       "ICS110P: Python programming"
       ]
     },
