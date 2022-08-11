@@ -111,11 +111,20 @@
   ],
   "work": [
     {
+      "company": "The Shard - South Africa",
+      "position": "Head Of Data Science",
+      "website": "https://www.theshard.co.za/",
+      "startDate": "2022-07-06",
+      "endDate": "Current",
+      "summary": "Tecnical client engagements, Project Scoping, Research, architecture design, Overseeing Implementation",
+      "highlights": ["African bank", "Capitec"]
+    },
+    {
       "company": "Hawaii Data Science Institute - University of Hawaii",
       "position": "Graduate Research Fellow",
       "website": "https://datascience.hawaii.edu/students/fellows/",
       "startDate": "2020-10-01",
-      "endDate": "Current",
+      "endDate": "2022-04-30",
       "summary": "Using Computer vision and Deep learning methods to help improve marine life preservation efforts.",
       "highlights": [
       ]
@@ -135,7 +144,7 @@
       "position": "Teaching Assistant",
       "website": "",
       "startDate": "2019-08-26",
-      "endDate": "Present",
+      "endDate": "Current",
       "summary": "I assist students during my office hours, set up assignments, recitations, grade assignments and projects",
       "highlights": [
       "ICS483: Computer Vision",
