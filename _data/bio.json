@@ -4,11 +4,11 @@
     "label": "Student",
     "picture": "https://DeepsMoseli.github.io/images/imageMe.jpg",
     "email": "moselim@hawaii.edu",
-    "phone": "808-358-1839",
+    "phone": "650-863-4292",
     "website": "https://DeepsMoseli.github.io",
-    "summary": "I am a PhD student in Computer Science at the University of Hawaii Manoa since Fall 2019, working on Deep Learning with Peter Sadowski. Before moving to UH, I worked on Natural language  processing, and adversarial music generation with of Anna Bosman, and Pieter Devilliers at the university of Pretoria.",
+    "summary": "I am a PhD student in Computer Science at the University of Hawaii Manoa since Fall 2021, working on Deep Active Learning with Kyungim Baek. Before moving to UH, I worked on Natural language  processing, and adversarial music generation with Anna Bosman, and Pieter Devilliers at the university of Pretoria.",
     "location": {
-      "address": "1680 East-West Rd, Post 314-1",
+      "address": "1680 East-West Rd, Post 314-6",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -31,6 +31,7 @@
     {
       "name": "Deep learning",
       "keywords": [
+        "Deep Active Learning",
         "NLP",
         "Computer vision"
       ]
@@ -81,8 +82,8 @@
       "endDate": "Present",
       "gpa": "3.75",
       "courses": [
-        "High Growth Entrepreneurship",
-        "Machine learning Research Seminar"
+        "Deep Active Learning",
+        "Computer Vision"
       ]
     },
     {
@@ -107,6 +108,12 @@
       "gpa": "76%",
       "courses": [
       ]
+    }
+  ],
+  "Publications": [
+    {
+      "name": "Public Parking Spot Detection And Geo-localization Using Transfer Learning",
+      "reference": "Communications in Computer and Information Science, 2022, (Submitted)"
     }
   ],
   "work": [
