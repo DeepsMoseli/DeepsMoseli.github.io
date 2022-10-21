@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo_mblesse.svg
+image: images/portfolio.jpg
 title: Portfolio Of Evidence
 permalink: projects/Portfolio
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
   - Literature Review
   - Publications
 
-summary: This page  holds
+summary: This page holds my portfolio of evidence
 ---
 
 
