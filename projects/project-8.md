@@ -55,6 +55,14 @@ summary: This page  holds
 
 ## Publications
 
+<ol>
+    <li><a href = "https://arxiv.org/abs/2209.00213">Public Parking Spot Detection And Geo-localization Using Transfer Learning</a> : <i>To appear in proceedings of the Southern African Conference for
+    Artificial Intelligence Research</i></li>
+    <li><a href="#">FishNet: Deep Neural Networks For Low-Cost Fish Stock Estimation</a> : <i>Submitted to this conference</i></li>
+    <li><a href="#">Comparision Of Adversarial And Non-Adversarial LSTM Music Generative Models</a> : <i>Submitted to this conference</i></li>
+</ol>
+
+
 <img class="ui image" src="../images/feedback.png">
 
 ## Technical Reports
