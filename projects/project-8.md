@@ -16,13 +16,18 @@ summary: This page  holds
 ---
 
 
-## Statement of Purpose
+## <a href='../pdfs/Statement_of_Purpose.pdf'>Statement of Purpose</a>
 
-<img class="ui image" src="../images/landing.png">
+<embed
+    src="../pdfs/Statement_of_Purpose.pdf" 
+    type="application/pdf"
+    width="900"
+    height="650"
+>
 
 ## Core Competency
 
-#### MS Degree
+#### <a href="../pdfs/MSc_Computer_Science.pdf">MS Degree</a>
 
 <embed
     src="../pdfs/MSc_Computer_Science.pdf" 
@@ -49,21 +54,27 @@ summary: This page  holds
     height="650"
 >
 
-## Literature Review
+## <a href='../pdfs/Deep_Active_Learning_In_The_Presence_Of_Label_Noise_LNCS.pdf'>Literature Review</a>
 
-<embed src="/blog/images/xxx.pdf" type="application/pdf">
+<embed 
+    src="../pdfs/Deep_Active_Learning_In_The_Presence_Of_Label_Noise_LNCS.pdf" 
+    type="application/pdf"
+    width="900"
+    height="650"
+>
 
 ## Publications
 
 <ol>
-    <li><a href = "https://arxiv.org/abs/2209.00213">Public Parking Spot Detection And Geo-localization Using Transfer Learning</a> : <i>To appear in proceedings of the Southern African Conference for
-    Artificial Intelligence Research</i></li>
+    <li><a href = "https://arxiv.org/abs/2209.00213">Public Parking Spot Detection And Geo-localization Using Transfer Learning</a> : <i>To appear in the 2022 proceedings of the Southern African Conference for Artificial Intelligence Research</i></li>
     <li><a href="#">FishNet: Deep Neural Networks For Low-Cost Fish Stock Estimation</a> : <i>Submitted to this conference</i></li>
     <li><a href="#">Comparision Of Adversarial And Non-Adversarial LSTM Music Generative Models</a> : <i>Submitted to this conference</i></li>
 </ol>
 
-
-<img class="ui image" src="../images/feedback.png">
-
 ## Technical Reports
+
+<ol>
+    <li></li>
+    <li></li>
+</ol>
 -----
