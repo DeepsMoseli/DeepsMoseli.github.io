@@ -27,26 +27,26 @@ summary: This page  holds
 <embed
     src="../pdfs/MSc_Computer_Science.pdf" 
     type="application/pdf"
-    width="800"
-    height="500"
+    width="900"
+    height="650"
 >
 
-#### Qualifying Exam Results
+#### <a href="../pdfs/ICS_PhD_Qualifier_result_for_Moseli.pdf">Qualifying Exam Results</a>
 
 <embed 
     src="../pdfs/ICS_PhD_Qualifier_result_for_Moseli.pdf" 
     type="application/pdf"
-    width="800"
-    height="500"
+    width="900"
+    height="650"
 >
 
-#### Resume
+#### <a href="../pdfs/Moseli_Motsoehli_Resume.pdf">Resume</a>
 
 <embed 
     src="../pdfs/Moseli_Motsoehli_Resume.pdf" 
     type="application/pdf"
-    width="800"
-    height="500"
+    width="900"
+    height="650"
 >
 
 ## Literature Review
