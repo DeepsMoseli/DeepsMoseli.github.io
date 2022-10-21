@@ -18,12 +18,6 @@ summary: This page holds my portfolio of evidence
 
 ## <a href='../pdfs/Statement_of_Purpose.pdf'>Statement of Purpose</a>
 
-<embed
-    src="../pdfs/Statement_of_Purpose.pdf" 
-    type="application/pdf"
-    width="900"
-    height="650"
->
 -----
 
 ## Core Competency
