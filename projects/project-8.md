@@ -16,27 +16,31 @@ summary: This page  holds
 ---
 
 
-### Statement of Purpose
+## Statement of Purpose
 
 <img class="ui image" src="../images/landing.png">
 
-### Core Competency
+## Core Competency
 
 #### MS Degree
 
+<iframe width="100%" height="800" src="../pdfs/MSc_Computer_Science.pdf">
+
 #### Qualifying Exam Results
+
+<iframe width="100%" height="800" src="../pdfs/ICS_PhD_Qualifier_result_for_Moseli.pdf">
 
 #### Resume
 
-<img class="ui image" src="../images/signup.png">
+<iframe width="100%" height="800" src="../pdfs/Moseli_Motsoehli_Resume.pdf">
 
-### Literature Review
+## Literature Review
 
 <img class="ui image" src="../images/Events.png">
 
-### Publications
+## Publications
 
 <img class="ui image" src="../images/feedback.png">
 
-### Technical Reports
+## Technical Reports
 -----
