@@ -15,9 +15,8 @@ labels:
 summary: This page holds my portfolio of evidence
 ---
 
-
+-----
 ## <a href='../pdfs/Statement_of_Purpose.pdf'>Statement of Purpose</a>
-
 -----
 
 ## Core Competency
