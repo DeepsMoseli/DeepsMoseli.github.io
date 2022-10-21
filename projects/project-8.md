@@ -24,19 +24,33 @@ summary: This page  holds
 
 #### MS Degree
 
-<embed src="../pdfs/MSc_Computer_Science.pdf" type="application/pdf">
+<embed
+    src="../pdfs/MSc_Computer_Science.pdf" 
+    type="application/pdf"
+    width="800"
+    height="500"
+>
 
 #### Qualifying Exam Results
 
-<embed src="../pdfs/ICS_PhD_Qualifier_result_for_Moseli.pdf" type="application/pdf">
+<embed 
+    src="../pdfs/ICS_PhD_Qualifier_result_for_Moseli.pdf" 
+    type="application/pdf"
+    width="800"
+    height="500"
+>
 
 #### Resume
 
-<embed src="../pdfs/Moseli_Motsoehli_Resume.pdf" type="application/pdf">
+<embed 
+    src="../pdfs/Moseli_Motsoehli_Resume.pdf" 
+    type="application/pdf"
+    width="800"
+    height="500"
+>
 
 ## Literature Review
 
-<img class="ui image" src="../images/Events.png">
 <embed src="/blog/images/xxx.pdf" type="application/pdf">
 
 ## Publications
