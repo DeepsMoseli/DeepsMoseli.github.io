@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo_mblesse.svg
+image: images/landing.png
 title: Mblesse - Localized Ideas, Information and Resources on college campuses
 permalink: projects/Mblesse_college
 # All dates must be YYYY-MM-DD format!
