@@ -32,7 +32,7 @@ summary: This page holds my portfolio of evidence
   <li>Summer eserch fellow - Hawaii Institute of Data Science: summer summer 2020</li>
   <li>Data science lead - Nitrogen fund manager: 2017-2019</li>
   <li>Junior Data scientist - Vodafone South Africa: 2015-2017</li>
-<p>
+</p>
 </details>
 -----
 
