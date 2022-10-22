@@ -26,7 +26,7 @@ summary: This page holds my portfolio of evidence
 #### <a href="../pdfs/ICS_PhD_Qualifier_result_for_Moseli.pdf">Qualifying Exam Results</a>
 
 <details>
-<summary><a href="../pdfs/Moseli_Motsoehli_Resume.pdf">CS Related Experience</a></summary>
+<summary>CS Related Experience</summary>
 <p>
   <li>Data science lead - The Shard(PTY): Summer 2022</li>
   <li>Summer eserch fellow - Hawaii Institute of Data Science: summer summer 2020</li>
