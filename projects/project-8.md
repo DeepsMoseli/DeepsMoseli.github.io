@@ -27,10 +27,10 @@ summary: This page holds my portfolio of evidence
 
 #### <a href="../pdfs/Moseli_Motsoehli_Resume.pdf">CS Related Experience</a>
 <ul>
-  <li>Data science lead - The Shard (PTY): Summer 2022</li>
-  <li>Summer eserch fellow - Hawaii Institute of Data Science: summer summer 2020</li>
-  <li>Data science lead - Nitrogen fund manager: 2017-2019</li>
-  <li>Junior Data scientist - Vodafone South Africa: 2015-2017</li>
+  <li><a href='https://www.theshard.co.za/'>The Shard</a>: Data science lead - Summer 2022</li>
+  <li><a href = "https://datascience.hawaii.edu/">Hawaii Data Science Institute</a>: Summer reserch fellow - summer 2020</li>
+  <li><a href='https://nitrogenfm.co.za/'>Nitrogen fund managers</a>: Data science lead - 2017-2019</li>
+  <li><a href='https://www.vodacom.com/'>Vodafone South Africa</a>: Junior Data scientist - 2015-2017</li>
 </ul>
 
 -----
