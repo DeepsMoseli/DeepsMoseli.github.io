@@ -27,7 +27,7 @@ summary: This page holds my portfolio of evidence
 
 <details>
 <summary style = "cursor:pointer;box-shadow: 1px 1px 2px #bbbbbb;border: none;background-color: #eeeeee">
-    CS Related Experience :arrow_down_small:
+    <b>CS Related Experience </b><i class="fa-solid fa-sort-down"></i>
   </summary>
 <p>
   <li>Data science lead - The Shard(PTY): Summer 2022</li>
