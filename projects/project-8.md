@@ -25,17 +25,14 @@ summary: This page holds my portfolio of evidence
 
 #### <a href="../pdfs/ICS_PhD_Qualifier_result_for_Moseli.pdf">Qualifying Exam Results</a>
 
-<details>
-<summary style = "cursor:pointer;box-shadow: 1px 1px 2px #bbbbbb;border: none;background-color: #eeeeee">
-    <b>CS Related Experience </b><i class="fa-solid fa-sort-down"></i>
-  </summary>
+#### <a href="../pdfs/Moseli_Motsoehli_Resume.pdf">CS Related Experience</a>
 <p>
-  <li>Data science lead - The Shard(PTY): Summer 2022</li>
+  <li>Data science lead - The Shard (PTY): Summer 2022</li>
   <li>Summer eserch fellow - Hawaii Institute of Data Science: summer summer 2020</li>
   <li>Data science lead - Nitrogen fund manager: 2017-2019</li>
   <li>Junior Data scientist - Vodafone South Africa: 2015-2017</li>
 </p>
-</details>
+
 -----
 
 ## Evidence of Scholarly Ability
