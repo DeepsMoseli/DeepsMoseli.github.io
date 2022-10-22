@@ -26,8 +26,8 @@ summary: This page holds my portfolio of evidence
 #### <a href="../pdfs/ICS_PhD_Qualifier_result_for_Moseli.pdf">Qualifying Exam Results</a>
 
 <details>
-<summary style = "cursor:pointer;box-shadow: 1px 1px 2px #bbbbbb;border: none;padding: 4px;background-color: #eeeeee">
-    CS Related Experience
+<summary style = "cursor:pointer;box-shadow: 1px 1px 2px #bbbbbb;border: none;background-color: #eeeeee">
+    CS Related Experience :arrow_down_small:
   </summary>
 <p>
   <li>Data science lead - The Shard(PTY): Summer 2022</li>
