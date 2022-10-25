@@ -12,7 +12,7 @@ labels:
   - Literature Review
   - Publications
 
-summary: This page holds my portfolio of evidence
+summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Computer Science.  My research focuses on vision tasks, in  particular, active learning with noisy labels for image tasks. My altimage goal is to improve S.O.T.A methods on current benchmarks in this domain and some up with new Benchmarks.
 ---
 
 -----
@@ -25,7 +25,7 @@ summary: This page holds my portfolio of evidence
 
 #### <a href="../pdfs/ICS_PhD_Qualifier_result_for_Moseli.pdf">Qualifying Exam Results</a>
 
-#### <a href="../pdfs/Moseli_Motsoehli_Resume.pdf">CS Related Experience</a>
+#### CS Related Experience
 <ul>
   <li><a href='https://www.theshard.co.za/'>The Shard</a>: Data science lead - Summer 2022</li>
   <li><a href = "https://datascience.hawaii.edu/">Hawaii Data Science Institute</a>: Summer reserch fellow - summer 2020</li>
