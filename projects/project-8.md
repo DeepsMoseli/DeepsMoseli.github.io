@@ -12,7 +12,7 @@ labels:
   - Literature Review
   - Publications
 
-summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Computer Science.  My research focuses on vision tasks, in  particular, active learning with noisy labels for image tasks. My altimage goal is to improve S.O.T.A methods on current benchmarks in this domain and some up with new Benchmarks.
+summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Computer Science.  My research focuses on vision tasks, in  particular, active learning with noisy labels for image tasks. My altimage goal is to improve S.O.T.A methods on current benchmarks in this domain, and come up with new Benchmarks.
 ---
 
 -----
