@@ -50,3 +50,12 @@ summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Com
 </ol>
 
 -----
+
+## Other Evidence of Professional Capacity
+<ol>
+  <li>2022: GSO Representative in the ICS department</li>
+  <li>2018: NeurIPS Black in AI Poster presentation (Monreal)</li>
+  <li>2018: Invited talk: Introduction to Machine learning (National university of Lesotho)</li>
+</ol>
+
+-----
