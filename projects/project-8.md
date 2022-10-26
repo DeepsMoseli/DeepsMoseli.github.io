@@ -5,27 +5,28 @@ image: images/portfolio.jpg
 title: Portfolio Of Evidence
 permalink: projects/Portfolio
 # All dates must be YYYY-MM-DD format!
-date: 2022-10-21
+date: 2022-10-26
 labels:
   - Statement of Purpose
   - Core Competency
   - Literature Review
   - Publications
 
-summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Computer Science.  My research focuses on vision tasks, in  particular, active learning with noisy labels for image tasks. My altimage goal is to improve S.O.T.A methods on current benchmarks in this domain, and come up with new Benchmarks.
+summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Computer Science.  My research focuses on vision tasks, in  particular, active learning with noisy labels for image tasks. My ultimate goal is to improve S.O.T.A methods on current benchmarks in this domain, then turn that into a start-up.
 ---
 
 -----
-## <a href='../pdfs/Statement_of_Purpose.pdf'>Statement of Purpose</a>
+## Statement of Purpose
+##### <a href='../pdfs/Statement_of_Purpose.pdf'>Statement of Purpose</a>
 -----
 
 ## Core Competency
 
-#### <a href="../pdfs/MSc_Computer_Science.pdf">MS Degree UH Manoa</a>
+##### <a href="../pdfs/MSc_Computer_Science.pdf">MS Degree UH Manoa</a>
 
-#### <a href="../pdfs/ICS_PhD_Qualifier_result_for_Moseli.pdf">Qualifying Exam Results</a>
+##### <a href="../pdfs/ICS_PhD_Qualifier_result_for_Moseli.pdf">Qualifying Exam Results</a>
 
-#### CS Related Experience
+##### CS Related Experience
 <ul>
   <li><a href='https://www.theshard.co.za/'>The Shard</a>: Data science lead - Summer 2022</li>
   <li><a href = "https://datascience.hawaii.edu/">Hawaii Data Science Institute</a>: Summer reserch fellow - summer 2020</li>
@@ -37,11 +38,11 @@ summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Com
 
 ## Evidence of Scholarly Ability
 
-#### <a href = '../pdfs/Deep_Active_Learning_In_The_Presence_Of_Label_Noise_LNCS.pdf'>Literature Review</a>
+##### <a href = '../pdfs/Deep_Active_Learning_In_The_Presence_Of_Label_Noise_LNCS.pdf'>Literature Review</a>
 
-#### <a href = '../pdfs/Mini_Dissertation_Moseli_Motsoehli.pdf'>Masters Thesis (University of Pretoria)</a>
+##### <a href = '../pdfs/Mini_Dissertation_Moseli_Motsoehli.pdf'>Masters Thesis (University of Pretoria)</a>
 
-#### Publications
+##### Publications
 
 <ol>
     <li><a href = "https://arxiv.org/abs/2209.00213">Public Parking Spot Detection And Geo-localization Using Transfer Learning</a> : <i>To appear in the <a href='https://2022.sacair.org.za/?_ga=2.201804692.42026433.1666358114-1405977019.1660414057'>2022 proceedings of the Southern African Conference for Artificial Intelligence Research (SACAIR)</a></i></li>
