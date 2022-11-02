@@ -119,12 +119,12 @@
   "work": [
     {
       "company": "The Shard - South Africa",
-      "position": "Head Of Data Science",
+      "position": "Data Science Lead",
       "website": "https://www.theshard.co.za/",
-      "startDate": "2022-07-06",
-      "endDate": "Current",
-      "summary": "Tecnical client engagements, Project Scoping, Research, architecture design, Overseeing Implementation",
-      "highlights": ["African bank", "Capitec"]
+      "startDate": "2022-05-06",
+      "endDate": "2022-08-07",
+      "summary": "Tecnical client engagements, Project Scoping, Research, Architecture Design, Overseeing Implementation",
+      "highlights": ["African bank", "Capitec bank","National treasury"]
     },
     {
       "company": "Hawaii Data Science Institute - University of Hawaii",
@@ -158,8 +158,7 @@
       "ICS434: Intro to Data Science",
       "ICS435: Machine Learning Fundamentals",
       "ICS311: Algorithms",
-      "ICS141: Discrete Structures",
-      "ICS110P: Python programming"
+      "ICS141: Discrete Structures"
       ]
     },
     {
