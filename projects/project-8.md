@@ -46,7 +46,7 @@ summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Com
 
 <ol>
     <li><a href = "https://arxiv.org/abs/2209.00213">Public Parking Spot Detection And Geo-localization Using Transfer Learning</a> : <i>To appear in the <a href='https://2022.sacair.org.za/?_ga=2.201804692.42026433.1666358114-1405977019.1660414057'>2022 proceedings of the Southern African Conference for Artificial Intelligence Research (SACAIR)</a></i></li>
-    <li><a href="../pdfs/FishNet__Deep_Neural_Networks_For_Low_Cost_Fish_Stock_Estimation.pdf">FishNet: Deep Neural Networks For Low-Cost Fish Stock Estimation</a> : <i>Submitted to this conference</i></li>
+    <li><a href="../pdfs/FishNet__Deep_Neural_Networks_For_Low_Cost_Fish_Stock_Estimation_PAKDD2023.pdf">FishNet: Deep Neural Networks For Low-Cost Fish Stock Estimation</a> : <i>Submitted to this conference</i></li>
     <li><a href="../pdfs/Comparision_Of_Adversarial_And_Non_Adversarial_LSTM_Music_Generative_Models_arXiv.pdf">Comparision Of Adversarial And Non-Adversarial LSTM Music Generative Models</a> : <i>Submitted to <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2023</a></i></li>
 </ol>
 
