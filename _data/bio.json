@@ -4,9 +4,9 @@
     "label": "Student",
     "picture": "https://DeepsMoseli.github.io/images/imageMe.jpg",
     "email": "moselim@hawaii.edu",
-    "phone": "650-863-4292",
+    "phone": "808-476-2232",
     "website": "https://DeepsMoseli.github.io",
-    "summary": "I am a PhD student in Computer Science at the University of Hawaii Manoa since Fall 2021, working on Deep Active Learning with Kyungim Baek. Before moving to UH, I worked on Natural language  processing, and adversarial music generation with Anna Bosman, and Pieter Devilliers at the university of Pretoria.",
+    "summary": "I am a PhD student in Computer Science at the University of Hawaii Manoa since Fall 2021, working on Active learning in the presence of label noise with Kyungim Baek. I also completed an M.S in CS under the supervision of Peter Sadowski, working on computer vision. Before moving to UH, I worked on Natural language processing, and adversarial music generation with Anna Bosman, and Pieter Devilliers at the university of Pretoria.",
     "location": {
       "address": "1680 East-West Rd, Post 314-6",
       "postalCode": "96822",
@@ -56,11 +56,11 @@
       "level": "",
       "keywords": [
         "Python",
-        "JavaScript",
-        "C++",
-        "React",
         "Pytorch",
-        "Tensorflow"
+        "Tensorflow",
+        "React.js",
+        "C++",
+        "Meteor"
       ]
     },
     {
