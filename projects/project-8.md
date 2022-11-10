@@ -15,7 +15,6 @@ labels:
 summary: This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Science. My research focuses on image classification, in  particular, active learning in the presence of label noise. My ultimate goal is to improve state of the art methods on current benchmarks in this domain, then go on to implement these methods in products with large scale impact.
 ---
 
------
 This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Science. My research focuses on image classification, in  particular, active learning in the presence of label noise. My ultimate goal is to improve state of the art methods on current benchmarks in this domain, then go on to implement these methods in products with large scale impact.
 -----
 ## Statement of Purpose
