@@ -20,7 +20,7 @@ This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Sci
 -----
 
 ## Statement of Purpose
-##### <a href='../pdfs/Statement_of_Purpose_CSRMP.pdf'>Statement of Purpose</a>
+##### <a href='../pdfs/Statement_of_Purpose.pdf'>Statement of Purpose</a>
 -----
 
 ## Core Competency
