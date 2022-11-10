@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/portfolio.jpg
-title: Portfolio Of Evidence
+title: Moseli Mots'oehli's Portfolio
 permalink: projects/Portfolio
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-26
@@ -17,7 +17,7 @@ summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Com
 
 -----
 ## Statement of Purpose
-##### <a href='../pdfs/Statement_of_Purpose.pdf'>Statement of Purpose</a>
+##### <a href='../pdfs/Statement_of_Purpose_CSRMP.pdf'>Statement of Purpose</a>
 -----
 
 ## Core Competency
@@ -38,11 +38,11 @@ summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Com
 
 ## Evidence of Scholarly Ability
 
-##### <a href = '../pdfs/Deep_Active_Learning_in_the_Presence_of_Label_Noise_LNCS.pdf'>Literature Review</a>
+##### <a href = '../pdfs/Deep_Active_Learning_in_the_Presence_of_Label_Noise_LNCS.pdf'>Ph.D. Literature Review</a>
 
 ##### <a href = '../pdfs/Mini_Dissertation_Moseli_Motsoehli.pdf'>Masters Thesis (University of Pretoria)</a>
 
-##### Publications
+##### <u>Publications to Date</u>
 
 <ol>
     <li><a href = "https://arxiv.org/abs/2209.00213">Public Parking Spot Detection and Geo-localization Using Transfer Learning</a> : <i>To appear in the <a href='https://2022.sacair.org.za/?_ga=2.201804692.42026433.1666358114-1405977019.1660414057'>2022 Proceedings of the Southern African Conference for Artificial Intelligence Research (SACAIR)</a>, <b>average acceptance rate : 33%</b></i></li>
@@ -54,10 +54,10 @@ summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Com
 
 ## Other Evidence of Professional Capacity
 <ol>
-  <li>2022: Reviewer: <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference.</a></li>
-  <li>2022: GSO Representative in the ICS department.</li>
-  <li>2018: NeurIPS Black in AI Poster presentation (Monreal).</li>
-  <li>2018: Invited talk: Introduction to Machine learning (National university of Lesotho).</li>
+  <li>2022: Reviewer for <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2023.</a></li>
+  <li>2022: GSO representative in the ICS department at UH Manoa.</li>
+  <li>2018: NeurIPS black in AI poster presentation (Monreal).</li>
+  <li>2018: Invited talk: introduction to machine learning (National university of Lesotho).</li>
 </ol>
 
 -----
