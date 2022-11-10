@@ -12,9 +12,10 @@ labels:
   - Literature Review
   - Publications
 
-summary: This page holds my portfolio of evidence, towrds a PhD candidacy in Computer Science.  My research focuses on vision tasks, in  particular, active learning with noisy labels for image tasks. My ultimate goal is to improve S.O.T.A methods on current benchmarks in this domain, then turn that into a start-up.
+summary: This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Science. My research focuses on image classification, in  particular, active learning in the presence of label noise. My ultimate goal is to improve state of the art methods on current benchmarks in this domain, then go on to implement these methods in products with large scale impact.
 ---
-
+-----
+This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Science. My research focuses on image classification, in  particular, active learning in the presence of label noise. My ultimate goal is to improve state of the art methods on current benchmarks in this domain, then go on to implement these methods in products with large scale impact.
 -----
 ## Statement of Purpose
 ##### <a href='../pdfs/Statement_of_Purpose_CSRMP.pdf'>Statement of Purpose</a>
