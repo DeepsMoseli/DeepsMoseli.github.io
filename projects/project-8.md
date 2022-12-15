@@ -48,9 +48,10 @@ This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Sci
 ##### <u>Publications to Date</u>
 
 <ol>
-    <li><a href = "https://arxiv.org/abs/2209.00213">Public Parking Spot Detection and Geo-localization Using Transfer Learning</a> : <i>To appear in the <a href='https://2022.sacair.org.za/wp-content/uploads/2022/12/SACAIR2022_ConferenceProceedings.pdf'>Proceedings of the 3rd Southern African Conference for Artificial Intelligence Research (SACAIR 2022), pages 109-124 </a>, <b>acceptance rate : 60.2%</b></i></li>
+    <li><a href = "https://arxiv.org/abs/2209.00213">Public Parking Spot Detection and Geo-localization Using Transfer Learning</a> : <i>Published in the<a href='https://2022.sacair.org.za/wp-content/uploads/2022/12/SACAIR2022_ConferenceProceedings.pdf'> Proceedings of the 3rd Southern African Conference for Artificial Intelligence Research (SACAIR 2022), pages 109-124 </a>, <b>acceptance rate : 60.2%</b></i></li>
+    <li><a href="../pdfs/Comparision_of_Adversarial_and_Non_adversarial_LSTM_Music_Generative_Models_arXiv.pdf">Comparision of Adversarial and Non-adversarial LSTM Music Generative Models</a> : <i>Accepted for presentation at <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2023.</a>, <b>average acceptance rate : 35%</b></i></li>
     <li><a href="../pdfs/FishNet__Deep_Neural_Networks_for_Low_cost_Fish_Stock_Estimation_PAKDD2023.pdf">FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation</a> : <i>Submitted to the <a href = "https://pakdd2023.org/">27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD2023).</a>, <b>average acceptance rate : 25%</b></i></li>
-    <li><a href="../pdfs/Comparision_of_Adversarial_and_Non_adversarial_LSTM_Music_Generative_Models_arXiv.pdf">Comparision of Adversarial and Non-adversarial LSTM Music Generative Models</a> : <i>Submitted to <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2023.</a>, <b>average acceptance rate : 35%</b></i></li>
+    
 </ol>
 
 -----
