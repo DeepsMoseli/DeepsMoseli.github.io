@@ -50,8 +50,8 @@ This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Sci
 <ol>
     <li>
       <a href = "https://arxiv.org/abs/2209.00213">
-        Public Parking Spot Detection and Geo-localization Using Transfer Learning</a> : <i>Published in the<a href='https://2022.sacair.org.za/wp-content/uploads/2022/12/SACAIR2022_ConferenceProceedings.pdf'> Proceedings of the 3rd Southern African Conference for Artificial Intelligence Research (SACAIR 2022), pages 109-124 
-      </a>, acceptance rate : 60.2%</i>
+        Public Parking Spot Detection and Geo-localization Using Transfer Learning</a> : <i>Published in the<a href='https://2022.sacair.org.za/wp-content/uploads/2022/12/SACAIR2022_ConferenceProceedings.pdf'> Proceedings of the 3rd Southern African Conference for Artificial Intelligence Research (SACAIR 2022), pages 109-124, ISBN: 978-0-6397-1978-8,
+      </a>acceptance rate : 60.2%</i>
     </li>
     <li>
       <a href="../pdfs/Comparision_of_Adversarial_and_Non_adversarial_LSTM_Music_Generative_Models_arXiv.pdf">Comparision of Adversarial and Non-adversarial LSTM Music Generative Models
@@ -66,7 +66,8 @@ This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Sci
 
 ## Other Evidence of Professional Capacity
 <ol>
-  <li>2022: Reviewer for <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2023.</a></li>
+  <li>2023: Technical reviewer for <a href='https://saiconference.com/FTC'> Future Technologies Conference 2023.</a></li>
+  <li>2022: Technical reviewer for <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2023.</a></li>
   <li>2022: GSO representative in the ICS department at UH Manoa.</li>
   <li>2018: NeurIPS black in AI poster presentation (Monreal).</li>
   <li>2018: Invited talk: introduction to machine learning (National university of Lesotho).</li>
