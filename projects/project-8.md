@@ -66,7 +66,8 @@ This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Sci
 
 ## Other Evidence of Professional Capacity
 <ol>
-  <li>2023: Technical reviewer for <a href='https://saiconference.com/FTC'> Future Technologies Conference (FTC) 2023.</a></li>
+  <li>2023: Technical reviewer for <a href='https://saiconference.com/FTC'>Future Technologies Conference (FTC) 2023.</a></li>
+  <li>2023: Technical reviewer for <a href='https://saiconference.com/IntelliSys'>Intelligent Systems Conference (IntelliSys) 2023.</a></li>
   <li>2022: Technical reviewer for <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2023.</a></li>
   <li>2022: GSO representative in the ICS department at UH Manoa.</li>
   <li>2018: NeurIPS black in AI poster presentation (Monreal).</li>
