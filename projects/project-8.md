@@ -58,7 +58,7 @@ This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Sci
       </a> : <i>Accepted for presentation at <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2023.</a>, average acceptance rate : 35%</i>
     </li>
     <li>
-      <a href="../pdfs/FishNet__Deep_Neural_Networks_for_Low_cost_Fish_Stock_Estimation_PAKDD2023.pdf">FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation</a> : <i>Submitted to the <a href = "https://pakdd2023.org/">27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD2023).</a>, average acceptance rate : 25%</i>
+      <a href="../pdfs/FishNet__Deep_Neural_Networks_for_Low_cost_Fish_Stock_Estimation_PAKDD2023.pdf">FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation</a> : <i>To be Submitted to the <a href = "https://2023.ieeeicip.org/">IEEE International Conference on Image Processing (ICIP 2023).</a>, average acceptance rate : NA</i>
     </li>
 </ol>
 
