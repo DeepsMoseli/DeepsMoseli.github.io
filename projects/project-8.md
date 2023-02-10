@@ -31,10 +31,10 @@ This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Sci
 
 ##### CS Related Experience
 <ul>
-  <li><a href='https://www.theshard.co.za/'>The Shard</a>: Data Science lead - Summer 2022</li>
-  <li><a href = "https://datascience.hawaii.edu/">Hawaii Data Science Institute</a>: Summer reserch fellow - summer 2020</li>
-  <li><a href='https://nitrogenfm.co.za/'>Nitrogen Fund Managers</a>: Data Science Lead - 2017-2019</li>
-  <li><a href='https://www.vodacom.com/'>Vodafone South Africa</a>: Junior Data scientist - 2015-2017</li>
+  <li><a href = "https://www.theshard.co.za/Home/Moseli">The Shard South Africa</a>:Data Science lead - Summer 2022</li>
+  <li><a href = "https://datascience.hawaii.edu/profile/moseli-motsoehli/">Hawaii Data Science Institute</a>: Summer reserch fellow - summer 2020</li>
+  <li>Nitrogen Fund Managers: Data Science Lead - 2017-2019</li>
+  <li>Vodafone South Africa: Junior Data scientist - 2015-2017</li>
 </ul>
 
 -----
@@ -70,7 +70,7 @@ This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Sci
   <li>2023: Technical reviewer for <a href='https://saiconference.com/IntelliSys'>Intelligent Systems Conference (IntelliSys) 2023.</a></li>
   <li>2022: Technical reviewer for <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2023.</a></li>
   <li>2022: GSO representative in the ICS department at UH Manoa.</li>
-  <li>2018: NeurIPS black in AI poster presentation (Monreal).</li>
+  <li>2018: NeurIPS black in AI poster presentation (Montreal).</li>
   <li>2018: Invited talk: introduction to machine learning (National university of Lesotho).</li>
 </ol>
 
