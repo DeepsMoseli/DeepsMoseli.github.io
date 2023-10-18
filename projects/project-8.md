@@ -60,12 +60,16 @@ This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Sci
     <li>
       <a href="../pdfs/FishNet__Deep_Neural_Networks_for_Low_cost_Fish_Stock_Estimation_PAKDD2023.pdf">FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation</a> : <i>To be Submitted to the <a href = "https://2023.ieeeicip.org/">IEEE International Conference on Image Processing (ICIP 2023).</a>, average acceptance rate : NA</i>
     </li>
+    <li>
+      <a href="https://arxiv.org/abs/2310.09141">PuoBERTa: Training and evaluation of a curated language model for Setswana</a> : <i>Accepted for presentation at <a href = "https://2023.sacair.org.za/">Southern African Conference for Artificial Intelligence Research (SACAIR 2023).</a>, average acceptance rate : NA</i>
+    </li>
 </ol>
 
 -----
 
 ## Other Evidence of Professional Capacity
 <ol>
+ <li>2023: Technical reviewer for <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2024.</a></li>
   <li>2023: Technical reviewer for <a href='https://saiconference.com/FTC'>Future Technologies Conference (FTC) 2023.</a></li>
   <li>2023: Technical reviewer for <a href='https://saiconference.com/IntelliSys'>Intelligent Systems Conference (IntelliSys) 2023.</a></li>
   <li>2022: Technical reviewer for <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2023.</a></li>
