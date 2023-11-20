@@ -54,8 +54,11 @@ This page holds my portfolio of evidence, towards Ph.D candidacy in Computer Sci
       </a>acceptance rate : 60.2%</i>
     </li>
     <li>
+      <a href="https://arxiv.org/abs/2310.09141">GCI-ViTAL: Gradual Confidence Improvement with Vision Transformers for Active Learning on Label Noise</a> : <i>Submitted to <a href = "#">Conference name in the US</a>, average acceptance rate : NA</i>
+    </li>
+    <li>
       <a href="../pdfs/Comparision_of_Adversarial_and_Non_adversarial_LSTM_Music_Generative_Models_arXiv.pdf">Comparision of Adversarial and Non-adversarial LSTM Music Generative Models
-      </a> : <i>Accepted for presentation at <a href='https://saiconference.com/Computing'>Science and Information (SAI) Conference 2023.</a>, average acceptance rate : 35%</i>
+      </a> : <i>Published in <a href='https://link.springer.com/chapter/10.1007/978-3-031-37717-4_28'>Science and Information (SAI) Conference 2023(Springer), pages 428–458.</a>, average acceptance rate : 35%</i>
     </li>
     <li>
       <a href="../pdfs/FishNet__Deep_Neural_Networks_for_Low_cost_Fish_Stock_Estimation_PAKDD2023.pdf">FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation</a> : <i>To be Submitted to the <a href = "https://2023.ieeeicip.org/">IEEE International Conference on Image Processing (ICIP 2023).</a>, average acceptance rate : NA</i>

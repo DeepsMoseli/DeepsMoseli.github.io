@@ -110,12 +110,6 @@
       ]
     }
   ],
-  "Publications": [
-    {
-      "name": "Public Parking Spot Detection And Geo-localization Using Transfer Learning",
-      "reference": "Communications in Computer and Information Science, 2022, (Submitted)"
-    }
-  ],
   "work": [
     {
       "company": "The Shard - South Africa",
@@ -174,18 +168,42 @@
       ]
     }
   ],
- "awards": [
+ "Publications": [
     {
-      "title": "Vodacom finance Star performer",
-      "date": "2016",
-      "awarder": "Vodacom South Africa",
-      "summary": "Award recognises exceptional performance in the organization and impactful contribution to the finance division of vodacom"
+      "title": "Comparision of Adversarial and Non-adversarial LSTM Music Generative Models",
+      "date": "2023",
+      "awarder": "Science and Information (SAI) Conference 2023 (Springer), pages 428–458.",
+      "summary": "https://link.springer.com/chapter/10.1007/978-3-031-37717-4_28"
     },
     {
-      "title": "Golden key honorary award",
-      "date": "2013",
-      "awarder": "Golden key International honor society",
-      "summary": "Membership into Golden Key is by invitation only, to the top 15% of college/university 2nd, 3rd and 4th year students."
+      "title": "PuoBERTa: Training and evaluation of a curated language model for Setswana",
+      "date": "2023",
+      "awarder": "Southern African Conference for Artificial Intelligence Research (SACAIR 2023)",
+      "summary": "https://arxiv.org/abs/2310.09141"
+    },
+    {
+      "title": "FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation",
+      "date": "2023",
+      "awarder": "IEEE International Conference on Image Processing (ICIP 2023)",
+      "summary": "https://2023.ieeeicip.org"
+    },
+    {
+      "title": "Deep Active Learning in the Presence of Label Noise: A Survey",
+      "date": "2023",
+      "awarder": "Ph.D. Literature Review",
+      "summary": "https://arxiv.org/pdf/2302.11075.pdf"
+    },
+    {
+      "title": "Public Parking Spot Detection and Geo-localization Using Transfer Learning",
+      "date": "2022",
+      "awarder": "Proceedings of the 3rd Southern African Conference for Artificial Intelligence Research (SACAIR 2022), pages 109-124, ISBN: 978-0-6397-1978-8,",
+      "summary": "https://arxiv.org/abs/2209.00213"
+    },
+    {
+      "title": "GCI-ViTAL: Gradual Confidence Improvement with Vision Transformers for Active Learning on Label Noise",
+      "date": "2024",
+      "awarder": "TBA",
+      "summary": "#"
     }
   ],
   "references": [

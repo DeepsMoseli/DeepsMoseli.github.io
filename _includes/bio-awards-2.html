@@ -2,7 +2,7 @@
 
 {% assign hasGrant = false %}
 {% assign hasNonGrant = false %}
-{% for entry in site.data.bio.awards %}
+{% for entry in site.data.bio.publications %}
   {% if entry.type == "grant" %}
      {% assign hasGrant = true %}
   {% elsif entry.type != "grant" %}
@@ -17,7 +17,7 @@
   </div>
 
   <div class="sixteen wide column no-bottom">
-    {% for entry in site.data.bio.awards %}
+    {% for entry in site.data.bio.publications %}
       {% if entry.type == "grant" %}
         <p class="ui no-bottom">
           <b>{{ entry.title }}</b>, {{ entry.awarder }}{% if entry.date %}, {{ entry.date }}{% endif %}
@@ -30,12 +30,12 @@
 
 {% if hasNonGrant %}
   <div class="sixteen wide column no-bottom">
-    <h3 class="ui left aligned header no-bottom">Awards and Honors</h3>
+    <h3 class="ui left aligned header no-bottom">publications and Honors</h3>
     <hr style="margin: 0px;">
   </div>
 
   <div class="sixteen wide column no-bottom">
-    {% for entry in site.data.bio.awards %}
+    {% for entry in site.data.bio.publications %}
       {% if entry.type != "grant" %}
         <p class="ui no-bottom">
           <b>{{ entry.title }}</b>, {{ entry.awarder }}, {{ entry.date }}
