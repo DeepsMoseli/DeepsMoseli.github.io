@@ -94,9 +94,8 @@
       "endDate": "2021-05-13",
       "gpa": "3.9",
       "courses": [
-        "Advanced Artificial Intelligence", "Digital Image Processing", "Evolutionary Computation",
-        " Machine Learning", "Computer Networks", "Network science", "Software Engineering I",
-        "Software Engineering II", "Virtual and Augmented Reality", "Computer Architecture"
+        "Computer Vision", "Deep Learning", "Natural Language Processing", "Evolutionary Computation",
+        "Computer Networks","Software Engineering II","Order of Magnitude Physics"
       ]
     },
     {
@@ -151,8 +150,7 @@
       "ICS483: Computer Vision",
       "ICS434: Intro to Data Science",
       "ICS435: Machine Learning Fundamentals",
-      "ICS311: Algorithms",
-      "ICS141: Discrete Structures"
+      "ICS311: Algorithms"
       ]
     },
     {
@@ -168,7 +166,7 @@
       ]
     }
   ],
- "Publications": [
+ "publications": [
     {
       "title": "Comparision of Adversarial and Non-adversarial LSTM Music Generative Models",
       "date": "2023",
