@@ -168,6 +168,18 @@
   ],
  "publications": [
     {
+      "title": "GCI-ViTAL: Gradual Confidence Improvement with Vision Transformers for Active Learning on Label Noise",
+      "date": "2024",
+      "awarder": "TBS (To be submitted)",
+      "summary": "#"
+    },
+    {
+      "title": "FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation",
+      "date": "2024",
+      "awarder": "ACM International Conference on Multimedia and Image Processing (ICMIP 2024)(Submitted)",
+      "summary": "https://www.icmip.org/index.html"
+    },
+    {
       "title": "Comparision of Adversarial and Non-adversarial LSTM Music Generative Models",
       "date": "2023",
       "awarder": "Science and Information (SAI) Conference 2023 (Springer), page 428.",
@@ -180,12 +192,6 @@
       "summary": "https://arxiv.org/abs/2310.09141"
     },
     {
-      "title": "FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation",
-      "date": "2023",
-      "awarder": "ACM International Conference on Multimedia and Image Processing (ICMIP 2024)(Submitted)",
-      "summary": "https://www.icmip.org/index.html"
-    },
-    {
       "title": "Deep Active Learning in the Presence of Label Noise: A Survey",
       "date": "2023",
       "awarder": "Ph.D. Literature Review",
@@ -196,12 +202,6 @@
       "date": "2022",
       "awarder": "Proceedings of the 3rd Southern African Conference for Artificial Intelligence Research (SACAIR 2022), page 109",
       "summary": "https://arxiv.org/abs/2209.00213"
-    },
-    {
-      "title": "GCI-ViTAL: Gradual Confidence Improvement with Vision Transformers for Active Learning on Label Noise",
-      "date": "2024",
-      "awarder": "TBA",
-      "summary": "#"
     }
   ],
   "references": [
