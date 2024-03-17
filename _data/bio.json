@@ -169,38 +169,38 @@
  "publications": [
     {
       "title": "GCI-ViTAL: Gradual Confidence Improvement with Vision Transformers for Active Learning on Label Noise",
-      "date": "Mots'oehli .M, Baek. K, 2024",
-      "awarder": "TBS (To be submitted)",
+      "date": "2024",
+      "awarder": "Mots'oehli .M, Baek. K, TBS (To be submitted)",
       "summary": "#"
     },
     {
       "title": "FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation",
-      "date": "Mots'oehli .M, Nikolaev .A, IGede .W.B, Lynham .J, Mous .P.J, Sadowski .P, 2024",
-      "awarder": "ACM International Conference on Multimedia and Image Processing (ICMIP 2024)(Submitted)",
+      "date": "2024",
+      "awarder": "Mots'oehli .M, Nikolaev .A, IGede .W.B, Lynham .J, Mous .P.J, Sadowski .P, ACM International Conference on Multimedia and Image Processing (ICMIP 2024)(Submitted)",
       "summary": "https://www.icmip.org/index.html"
     },
     {
       "title": "Comparision of Adversarial and Non-adversarial LSTM Music Generative Models",
-      "date": "Mots'oehli .M, Bosman. A, De Villiers .JP, 2023",
-      "awarder": "Science and Information (SAI) Conference 2023 (Springer), page 428.",
+      "date": "2023",
+      "awarder": "Mots'oehli .M, Bosman. A, De Villiers .JP, Science and Information (SAI) Conference 2023 (Springer), page 428.",
       "summary": "https://link.springer.com/chapter/10.1007/978-3-031-37717-4_28"
     },
     {
       "title": "PuoBERTa: Training and evaluation of a curated language model for Setswana",
-      "date": "Marivate .V, Mots’Oehli .M, Wagnerinst .V, Lastrucci .R, Dzingirai .I, 2023",
-      "awarder": "Southern African Conference for Artificial Intelligence Research (SACAIR 2023)",
+      "date": "2023",
+      "awarder": "Marivate .V, Mots’Oehli .M, Wagnerinst .V, Lastrucci .R, Dzingirai .I,Southern African Conference for Artificial Intelligence Research (SACAIR 2023)",
       "summary": "https://arxiv.org/abs/2310.09141"
     },
     {
       "title": "Deep Active Learning in the Presence of Label Noise: A Survey",
-      "date": "Mots'oehli .M, Baek. K, 2023",
-      "awarder": "Ph.D. Literature Review",
+      "date": "2023",
+      "awarder": "Mots'oehli .M, Baek. K, Ph.D. Literature Review",
       "summary": "https://arxiv.org/pdf/2302.11075.pdf"
     },
     {
       "title": "Public Parking Spot Detection and Geo-localization Using Transfer Learning",
-      "date": "Mots'oehli .M, Yang .Y, 2022",
-      "awarder": "Proceedings of the 3rd Southern African Conference for Artificial Intelligence Research (SACAIR 2022), page 109",
+      "date": "2022",
+      "awarder": "Mots'oehli .M, Yang .Y, Proceedings of the 3rd Southern African Conference for Artificial Intelligence Research (SACAIR 2022), page 109",
       "summary": "https://arxiv.org/abs/2209.00213"
     }
   ],
