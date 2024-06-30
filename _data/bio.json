@@ -32,7 +32,7 @@
       "name": "Deep learning",
       "keywords": [
         "Deep Active Learning",
-        "NLP",
+        "Label Noise",
         "Computer vision"
       ]
     },
@@ -69,6 +69,7 @@
       "keywords": [
         "Windows",
         "Linux",
+        "AWS",
         "Git/GitHub"
       ]
     }
@@ -82,8 +83,7 @@
       "endDate": "Present",
       "gpa": "3.75",
       "courses": [
-        "Deep Active Learning",
-        "Computer Vision"
+        "Deep Active Learning Under Label Noise"
       ]
     },
     {
@@ -94,8 +94,7 @@
       "endDate": "2021-05-13",
       "gpa": "3.9",
       "courses": [
-        "Computer Vision", "Deep Learning", "Natural Language Processing", "Evolutionary Computation",
-        "Computer Networks","Software Engineering II","Order of Magnitude Physics"
+        "Deep Learning, Computer Vision, Software Engineering II"
       ]
     },
     {
@@ -115,9 +114,9 @@
       "position": "Data Science Lead",
       "website": "https://www.theshard.co.za/",
       "startDate": "2022-05-06",
-      "endDate": "2022-08-07",
+      "endDate": "2024-05-07",
       "summary": "Tecnical client engagements, Project Scoping, Research, Architecture Design, Overseeing Implementation",
-      "highlights": ["African bank", "Capitec bank","National treasury"]
+      "highlights": ["African bank, Capitec bank, National treasury"]
     },
     {
       "company": "Hawaii Data Science Institute - University of Hawaii",
@@ -147,10 +146,7 @@
       "endDate": "Current",
       "summary": "I assist students during my office hours, set up assignments, recitations, grade assignments and projects",
       "highlights": [
-      "ICS483: Computer Vision",
-      "ICS434: Intro to Data Science",
-      "ICS435: Machine Learning Fundamentals",
-      "ICS311: Algorithms"
+      "Computer Vision, Intro to Data Science, Machine Learning, Algorithms"
       ]
     },
     {
@@ -174,21 +170,27 @@
       "summary": "#"
     },
     {
+      "title": "Assistive Image Annotation Systems with Deep Learning and Natural Language Capabilities: A Review",
+      "date": "2024",
+      "awarder": "Mots'oehli .M, IEEE International Conference On Emerging Trends In Networks And Computer Communications (ETNCC 2024)(Accepted)",
+      "summary": "https://arxiv.org/abs/0107.5607951"
+    },
+    {
       "title": "FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation",
       "date": "2024",
-      "awarder": "Mots'oehli .M, Nikolaev .A, IGede .W.B, Lynham .J, Mous .P.J, Sadowski .P, ACM International Conference on Multimedia and Image Processing (ICMIP 2024)(Submitted)",
-      "summary": "https://www.icmip.org/index.html"
+      "awarder": "Mots'oehli .M, Nikolaev .A, IGede .W.B, Lynham .J, Mous .P.J, Sadowski .P, IEEE International Conference on Omni-Layer Intelligent Systems (COINS 2024)(Accepted)",
+      "summary": "https://arxiv.org/abs/2403.10916"
     },
     {
       "title": "Comparision of Adversarial and Non-adversarial LSTM Music Generative Models",
       "date": "2023",
-      "awarder": "Mots'oehli .M, Bosman. A, De Villiers .JP, Science and Information (SAI) Conference 2023 (Springer), page 428.",
+      "awarder": "Mots'oehli .M, Bosman. A, De Villiers .JP, Science and Information Conference (SAI 2023) (Springer), page 428",
       "summary": "https://link.springer.com/chapter/10.1007/978-3-031-37717-4_28"
     },
     {
       "title": "PuoBERTa: Training and evaluation of a curated language model for Setswana",
       "date": "2023",
-      "awarder": "Marivate .V, Mots’Oehli .M, Wagnerinst .V, Lastrucci .R, Dzingirai .I,Southern African Conference for Artificial Intelligence Research (SACAIR 2023)",
+      "awarder": "Marivate .V, Mots'oehli .M, Wagnerinst .V, Lastrucci .R, Dzingirai .I, Southern African Conference for Artificial Intelligence Research (SACAIR 2023) (Springer), pages 253–266 ",
       "summary": "https://arxiv.org/abs/2310.09141"
     },
     {
