@@ -6,7 +6,7 @@
     "email": "moselim@hawaii.edu",
     "phone": "808-476-2232",
     "website": "https://DeepsMoseli.github.io",
-    "summary": "I am a PhD student in Computer Science at the University of Hawaii Manoa since Fall 2021, working on Active learning in the presence of label noise with Kyungim Baek. I also completed an M.S in CS under the supervision of Peter Sadowski, working on computer vision. Before moving to UH, I worked on Natural language processing, and adversarial music generation with Anna Bosman, and Pieter Devilliers at the university of Pretoria.",
+    "summary": "I am a PhD student in Computer Science at the University of Hawai'i Manoa since fall 2021, working on autonomous perception and safety on South African roads using active learning with assistive annotation techniques, under the supervision of Professors Kyungim Baek and Huaijin Chen. I also completed an M.S in CS under the supervision of Peter Sadowski, working on computer vision for marine life conservation. Before moving to UH, I worked on natural language processing, and adversarial music generation with Dr Anna Bosman, and Dr Pieter Devilliers at the university of Pretoria.",
     "location": {
       "address": "1680 East-West Rd, Post 314-6",
       "postalCode": "96822",
@@ -31,6 +31,8 @@
     {
       "name": "Deep learning",
       "keywords": [
+        "Autonomous Perception",
+        "Weakly Supervised Learning",
         "Deep Active Learning",
         "Label Noise",
         "Computer vision"
@@ -83,7 +85,7 @@
       "endDate": "Present",
       "gpa": "3.75",
       "courses": [
-        "Deep Active Learning Under Label Noise"
+        "Autonomous Perception, Deep Active Learning, Label Noise"
       ]
     },
     {
@@ -104,7 +106,7 @@
       "startDate": "2017-02-01",
       "endDate": "2019-01-01",
       "gpa": "76%",
-      "courses": [
+      "courses": ["Generative Adversarial Networks, Natural Language Processing, Machine Learning"
       ]
     }
   ],
@@ -115,7 +117,7 @@
       "website": "https://www.theshard.co.za/",
       "startDate": "2022-05-06",
       "endDate": "2024-05-07",
-      "summary": "Tecnical client engagements, Project Scoping, Research, Architecture Design, Overseeing Implementation",
+      "summary": "Technical client engagements, Project Scoping, Research, Architecture Design, Overseeing Implementation",
       "highlights": ["African bank, Capitec bank, National treasury"]
     },
     {
@@ -166,7 +168,7 @@
   {
     "title": "Balancing Accuracy and Efficiency in Vision Transformers for Noisy Annotations: Insights on Patch and Embedding Size",
     "date": "2024",
-    "awarder": "Mots'oehli .M, Gong J Y,  Mogale .H, (To be submitted)",
+    "awarder": "Mots'oehli .M, Gong .J.Y,  Mogale .H, (To be submitted)",
     "summary": "#"
   },
     {
@@ -202,7 +204,7 @@
     {
       "title": "Deep Active Learning in the Presence of Label Noise: A Survey",
       "date": "2023",
-      "awarder": "Mots'oehli .M, Baek. K, Ph.D. Literature Review",
+      "awarder": "Mots'oehli .M, Baek. K, Ph.D. Portfolio Literature Review",
       "summary": "https://arxiv.org/pdf/2302.11075.pdf"
     },
     {
