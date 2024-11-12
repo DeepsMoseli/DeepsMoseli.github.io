@@ -163,22 +163,28 @@
     }
   ],
  "publications": [
+  {
+    "title": "Balancing Accuracy and Efficiency in Vision Transformers for Noisy Annotations: Insights on Patch and Embedding Size",
+    "date": "2024",
+    "awarder": "Mots'oehli .M, Baek. K, (To be submitted)",
+    "summary": "#"
+  },
     {
       "title": "GCI-ViTAL: Gradual Confidence Improvement with Vision Transformers for Active Learning on Label Noise",
       "date": "2024",
-      "awarder": "Mots'oehli .M, Baek. K, TBS (To be submitted)",
-      "summary": "#"
+      "awarder": "Mots'oehli .M, Baek. K, (Under review)",
+      "summary": "https://arxiv.org/abs/2411.05939"
     },
     {
       "title": "Assistive Image Annotation Systems with Deep Learning and Natural Language Capabilities: A Review",
       "date": "2024",
-      "awarder": "Mots'oehli .M, IEEE International Conference On Emerging Trends In Networks And Computer Communications (ETNCC 2024)(Accepted)",
+      "awarder": "Mots'oehli .M, IEEE International Conference On Emerging Trends In Networks And Computer Communications (ETNCC 2024)",
       "summary": "https://arxiv.org/abs/2407.00252"
     },
     {
       "title": "FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation",
       "date": "2024",
-      "awarder": "Mots'oehli .M, Nikolaev .A, IGede .W.B, Lynham .J, Mous .P.J, Sadowski .P, IEEE International Conference on Omni-Layer Intelligent Systems (COINS 2024)(Accepted)",
+      "awarder": "Mots'oehli .M, Nikolaev .A, IGede .W.B, Lynham .J, Mous .P.J, Sadowski .P, IEEE International Conference on Omni-Layer Intelligent Systems (COINS 2024)",
       "summary": "https://arxiv.org/abs/2403.10916"
     },
     {
