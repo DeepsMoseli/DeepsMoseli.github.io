@@ -35,7 +35,7 @@
         "Weakly Supervised Learning",
         "Deep Active Learning",
         "Label Noise",
-        "Computer vision"
+        "Computer Vision"
       ]
     },
     {
@@ -43,7 +43,8 @@
       "keywords": [
         "react.js",
         "Meteor",
-        "Flask"
+        "FastAPI",
+        "TypeScript"
       ]
     },
     {
@@ -61,6 +62,7 @@
         "Pytorch",
         "Tensorflow",
         "React.js",
+        "TypeScript",
         "C++",
         "Meteor"
       ]
