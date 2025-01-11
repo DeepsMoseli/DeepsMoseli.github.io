@@ -183,13 +183,13 @@
       "title": "Assistive Image Annotation Systems with Deep Learning and Natural Language Capabilities: A Review",
       "date": "2024",
       "awarder": "Mots'oehli .M, IEEE International Conference On Emerging Trends In Networks And Computer Communications (ETNCC 2024)",
-      "summary": "https://arxiv.org/abs/2407.00252"
+      "summary": "https://ieeexplore.ieee.org/document/10767526"
     },
     {
       "title": "FishNet: Deep Neural Networks for Low-cost Fish Stock Estimation",
       "date": "2024",
       "awarder": "Mots'oehli .M, Nikolaev .A, IGede .W.B, Lynham .J, Mous .P.J, Sadowski .P, IEEE International Conference on Omni-Layer Intelligent Systems (COINS 2024)",
-      "summary": "https://arxiv.org/abs/2403.10916"
+      "summary": "https://doi.ieeecomputersociety.org/10.1109/COINS61597.2024.10622134"
     },
     {
       "title": "Comparision of Adversarial and Non-adversarial LSTM Music Generative Models",
@@ -201,7 +201,7 @@
       "title": "PuoBERTa: Training and evaluation of a curated language model for Setswana",
       "date": "2023",
       "awarder": "Marivate .V, Mots'oehli .M, Wagnerinst .V, Lastrucci .R, Dzingirai .I, Southern African Conference for Artificial Intelligence Research (SACAIR 2023) (Springer), pages 253–266 ",
-      "summary": "https://arxiv.org/abs/2310.09141"
+      "summary": "https://link.springer.com/chapter/10.1007/978-3-031-49002-6_17"
     },
     {
       "title": "Deep Active Learning in the Presence of Label Noise: A Survey",
